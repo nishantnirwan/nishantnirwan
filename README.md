@@ -1,61 +1,130 @@
-# Hi, I'm Nishant Yadav
+<div align="center">
 
-B.Tech CS student building scalable backend systems and sharpening DSA skills in Java. Currently open to **software development internships**.
+# Nishant Yadav
 
----
+**Software Development Intern Candidate · B.Tech Computer Science**
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-MQxdkdbc2CIRfmqEWX5E6x6ZTO6P41piQ&s" width="14"/> &nbsp;**About**
+B.Tech Computer Science student focused on scalable backend systems and strong problem-solving skills using Java.
+Actively seeking software development internship opportunities where I can contribute, learn, and grow.
 
-- B.Tech Computer Science undergraduate
-- Backend development with Node.js
-- Strong foundation in Java & Data Structures & Algorithms
-- Creator of [Astranyx](https://github.com/nishantnirwan/discord-music-bot) — a Discord music bot with queue management, autoplay, and advanced playback controls
-- Open to internship opportunities &nbsp;·&nbsp; nishantnirwanofficial@gmail.com
+[![Email](https://img.shields.io/badge/Email-nishantnirwanofficial%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nishantnirwanofficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nishantyadav13/)
 
----
-
-<img src="https://static.thenounproject.com/png/2383294-200.png" width="14"/> &nbsp;**Tech Stack**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" title="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" title="CSS3"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" title="VS Code"/>
-</p>
+</div>
 
 ---
 
-<img src="https://staging.svgrepo.com/show/67493/statistics.svg" width="14"/> &nbsp;**Stats**
+## About
 
-<img src="https://github-readme-stats.vercel.app/api?username=nishantnirwan&show_icons=true&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true" height="150" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantnirwan&layout=compact&hide_border=true" height="150" />
-
----
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="14"/> &nbsp;**Currently Working On**
-
-- Advanced DSA problem solving in Java
-- Backend API development with Node.js
-- System design fundamentals
+- Undergraduate pursuing B.Tech in Computer Science
+- Primary focus on Java, Data Structures, and Algorithms
+- Hands-on experience building backend systems and console-based applications
+- Comfortable working across the full development lifecycle — from design to deployment
+- Familiar with Git-based workflows and collaborative development practices
+- Actively solving DSA problems to strengthen problem-solving and analytical thinking
 
 ---
 
-<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjkzMi1uaW5nLTEwNS5wbmc.png" width="14"/> &nbsp;**Contact Me**
+## Technical Skills
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Nishant%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:nishantnirwanofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-nishantnirwanofficial-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+---
+
+## Projects
+
+---
+
+### ASTRANYX — Discord Music Bot
+
+> A feature-rich Discord music bot built with Node.js, designed for performance and reliable audio delivery.
+
+| Feature | Detail |
+|---|---|
+| Framework | Node.js |
+| Command Interface | Slash command support |
+| Queue System | Full queue management with add, skip, and clear |
+| Playback Controls | Loop, autoplay, pause, resume, and stop |
+| Architecture | Efficient audio streaming pipeline |
+
+**Key Highlights**
+- Implemented modular command handling for scalability and maintainability
+- Designed an audio streaming architecture optimized for low-latency playback
+- Built queue and playback control systems with clean separation of concerns
+
+---
+
+### Portfolio Website
+
+> A responsive personal portfolio built to present projects, skills, and contact information in a clean, structured layout.
+
+| Feature | Detail |
+|---|---|
+| Stack | HTML, CSS, JavaScript |
+| Design | Responsive and mobile-friendly |
+| Sections | Projects · Skills · Contact |
+| Focus | Clean layout and structured presentation |
+
+**Key Highlights**
+- Developed without any CSS frameworks to demonstrate core front-end fundamentals
+- Structured content hierarchy with recruiter and reader experience in mind
+
+---
+
+### Quiz Application — Java Console-Based
+
+> A console-based quiz application built entirely in Java, emphasizing object-oriented design and modular code structure.
+
+| Feature | Detail |
+|---|---|
+| Language | Java |
+| Interface | Console-based (no UI) |
+| Design Pattern | Object-Oriented Programming principles |
+| Features | Score tracking · Structured question handling |
+| Focus | Clean modular architecture and logic building |
+
+**Key Highlights**
+- Applied OOP concepts including encapsulation, abstraction, and separation of concerns
+- Designed a reusable question-handling module for easy extension
+- Implemented a score tracking system with clean state management
+
+---
+
+### PC Optimizer
+
+> A utility-based system tool demonstrating system-level thinking and clean modular software design.
+
+| Feature | Detail |
+|---|---|
+| Type | System utility tool |
+| Focus | System efficiency and optimization concepts |
+| Architecture | Modular, maintainable structure |
+| Design Goal | Demonstrate system-level reasoning and structured thinking |
+
+**Key Highlights**
+- Designed with a focus on modular, reusable components
+- Demonstrates understanding of system-level processes and resource management concepts
+
+---
+
+## Open to Opportunities
+
+I am actively looking for **software development internship** roles where I can apply my skills in Java, backend development, and problem-solving to real-world projects. Available for immediate engagement.
+
+**Reach out:** [nishantnirwanofficial@gmail.com](mailto:nishantnirwanofficial@gmail.com)
+
+---
+
+<div align="center">
+<sub>B.Tech Computer Science · Java & DSA · Node.js · Open to Internship Opportunities</sub>
+</div>
