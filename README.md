@@ -1,27 +1,30 @@
 <div align="center">
-
+  
 # Nishant Yadav
 
 **Software Development Intern Candidate · B.Tech Computer Science**
-
-B.Tech Computer Science student focused on scalable backend systems and strong problem-solving skills using Java.
-Actively seeking software development internship opportunities where I can contribute, learn, and grow.
-
-[![Email](https://img.shields.io/badge/Email-nishantnirwanofficial%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nishantnirwanofficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nishantyadav13/)
-
 </div>
+
+<p align="center">
+  <a href="mailto:nishantnirwanofficial@gmail.com">
+    <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="22" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nishantyadav13/">
+    <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="22" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/nishantnirwan/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" />
+  </a>
+</p>
 
 ---
 
 ## About
 
-- Undergraduate pursuing B.Tech in Computer Science
-- Primary focus on Java, Data Structures, and Algorithms
-- Hands-on experience building backend systems and console-based applications
-- Comfortable working across the full development lifecycle — from design to deployment
-- Familiar with Git-based workflows and collaborative development practices
-- Actively solving DSA problems to strengthen problem-solving and analytical thinking
+B.Tech CSE student currently learning and improving my problem-solving skills through Java and real-world projects.
+Actively building projects, practicing DSA, and working towards becoming internship-ready.
 
 ---
 
@@ -29,15 +32,30 @@ Actively seeking software development internship opportunities where I can contr
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+</p>
 
-**Backend**
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+</p>
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+</p>
 
 ---
 
@@ -116,12 +134,44 @@ Actively seeking software development internship opportunities where I can contr
 - Demonstrates understanding of system-level processes and resource management concepts
 
 ---
+## Contact
 
-## Open to Opportunities
-
-I am actively looking for **software development internship** roles where I can apply my skills in Java, backend development, and problem-solving to real-world projects. Available for immediate engagement.
-
-**Reach out:** [nishantnirwanofficial@gmail.com](mailto:nishantnirwanofficial@gmail.com)
+<table>
+  <tr>
+    <th align="left">Channel</th>
+    <th align="left">Details</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.svgrepo.com/show/349378/gmail.svg" width="18"/> Email
+    </td>
+    <td>
+      <a href="mailto:nishantnirwanofficial@gmail.com">
+        nishantnirwanofficial@gmail.com
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.svgrepo.com/show/157006/linkedin.svg" width="18"/> LinkedIn
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/nishantyadav13/">
+        linkedin.com/in/nishantyadav13
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="18"/> LeetCode
+    </td>
+    <td>
+      <a href="https://leetcode.com/nishantnirwan/">
+        leetcode.com/nishantnirwan
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
