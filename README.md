@@ -63,7 +63,7 @@ Actively building projects, practicing DSA, and working towards becoming interns
 
 ---
 
-### ASTRANYX — Discord Music Bot
+### ASTRANYX - Discord Music Bot
 
 > A feature-rich Discord music bot built with Node.js, designed for performance and reliable audio delivery.
 
@@ -99,7 +99,7 @@ Actively building projects, practicing DSA, and working towards becoming interns
 
 ---
 
-### Quiz Application — Java Console-Based
+### Quiz Application - Java Console-Based
 
 > A console-based quiz application built entirely in Java, emphasizing object-oriented design and modular code structure.
 
