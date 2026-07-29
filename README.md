@@ -1,8 +1,8 @@
 <div align="center">
-  
-# Nishant Yadav
 
+# Nishant Yadav
 **Software Development Intern Candidate · B.Tech Computer Science**
+
 </div>
 
 <p align="center">
@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishantnirwan&style=flat-square&color=blueviolet" alt="profile views" />
+</p>
+
 ---
 
 ## About
@@ -31,7 +35,6 @@ Actively building projects, practicing DSA, and working towards becoming interns
 ## Technical Skills
 
 **Languages**
-
 <p>
   <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=c" title="C" />
@@ -41,20 +44,43 @@ Actively building projects, practicing DSA, and working towards becoming interns
   <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
 </p>
 
-**Frontend & Backend**
-
+**Frontend**
 <p>
   <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+</p>
+
+**Backend & Databases**
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
 </p>
 
 **Tools & Platforms**
-
 <p>
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
+</p>
+
+**Core CS**
+<p>
+  Data Structures &nbsp;·&nbsp; Algorithms &nbsp;·&nbsp; System Design
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishantnirwan/nishantnirwan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishantnirwan/nishantnirwan/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/nishantnirwan/nishantnirwan/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
